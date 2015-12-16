@@ -1,4 +1,4 @@
-
+#!/usr/bin/bash
 while [ : ]
 do
 stop=`date | awk '{ print $4 }'|cut -d":" -f3`

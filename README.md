@@ -1,4 +1,4 @@
-config connect.cfg
+vim connect.cfg
 chmod +x database.sh
 ./database.sh
 
